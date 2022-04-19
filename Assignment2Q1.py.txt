@@ -1,0 +1,15 @@
+#Name: Imraan Jacobs 
+#student number: 11641584
+
+print("INF 1511 Assignment 2")
+print("")
+
+print("Question 1: ")
+temp=int(input("please enter the temperature:"))
+if temp<21:
+    print("Welcome to Winter")
+    print("The temp is "+ str(temp))
+else:
+    print("Summer is here")
+    print("The temp is "+ str(temp))
+    
